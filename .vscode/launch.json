@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Subscriber",
+            "request": "launch",
+            "mainClass": "Subscriber",
+            "projectName": "subscriber_e4b4c1cd"
+        }
+    ]
+}
